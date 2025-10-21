@@ -1,0 +1,6 @@
+numpy>=1.19.5
+opencv-python>=4.5.4
+ultralytics>=8.0.0  # For YOLOv8
+scipy>=1.7.3  # For distance calculations
+matplotlib>=3.4.3  # For visualization (optional)
+tqdm>=4.62.3  # For progress bars
